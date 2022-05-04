@@ -1,0 +1,80 @@
+h1{
+  color:#03f769;     
+  text-align: center;
+  font-size:5rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+  color:#1ada80;   
+  text-align: center;
+  font-size:3rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+  color:#41e606;   
+  text-align: center;
+  font-size:3rem;
+  font-family:'Times New Roman', Times, serif;
+}
+p{
+  font-size: 2rem;
+  color:#41e606;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.one{
+  background-color: #3FBFBF;
+  position:relative;
+  padding-top: 100px;
+}
+.two{
+  background-color:#BF7F3F;
+ 
+}
+.three{
+  background-color: #BF3FBF;
+  padding:50px 0 20 px;
+}
+body{
+  color:#BF7F3F;
+  margin:0;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  }
+  .btn:hover{
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+  .contact-message{
+    width:40%;
+    margin:40px auto 60px;
+  }
+  .copyright{
+    width:40%;
+    margin: 40px auto 60px;
+
+  }
+  .footer-link{
+    color:#0dc9da;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
